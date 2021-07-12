@@ -11,6 +11,8 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    margin: 8px;
+    padding: 15px;
 }
 
 a:hover {
